@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.myrepo" name="Open Future" version="0.0.1" provider-name="Derrick M">
+	<extension point="xbmc.addon.repository" name="Open Future">
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/</datadir>
+		</dir>
+		<info compressed="false">https://raw.githubusercontent.com/DerrickMartin/repository.myrepo/master/zips/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/DerrickMartin/repository.myrepo/master/zips/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/DerrickMartin/repository.myrepo/master/zips/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">All the benefits of the future in the present</summary>
+		<description lang="en">Repository made by Derrick M</description>
+		<genre>anime,comedy,health,kids,livetv,movies,news,sports,tvshows,usa</genre>
+	</extension>
+</addon>
